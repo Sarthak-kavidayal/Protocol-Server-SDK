@@ -18,7 +18,3 @@
 	path = seller-mock-config
 	url = https://github.com/ONDC-Official/seller-mock-config
 	branch = master
-[submodule "protocol-server-config"]
-	path = protocol-server-config
-	url = https://github.com/ONDC-Official/protocol-server-config
-	branch = master
